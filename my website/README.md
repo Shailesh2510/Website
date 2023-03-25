@@ -5,7 +5,7 @@ Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 
 
 ## 📌 Tech Stack
-Html5, css3,javascript, and may online javascript library
+Html5, css3,javascript, and many online javascript library
 
 ### Extras : 
 Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON

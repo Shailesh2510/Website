@@ -1,2 +1,2 @@
 # Website
-This  is my personal portfolio website here i used many online javascrpit libraryand i used many latest javavscript concept and it's library...  you can see...
+This  is my personal portfolio website. where  i  have used  online javascrpit libraries and i  have used many of the  latest javavscript concept  like particle.js and  email.js and it's libraries . As you  can see in the code also also..
